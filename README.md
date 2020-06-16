@@ -14,3 +14,5 @@ You may download the data file at 'https://www.kaggle.com/tejpratap1/who-life-ex
                                   Or you may also find at pull request section.
                                   
 Demonstration Video Link: https://drive.google.com/file/d/1e31ASkT4mCKTNv3p4wTXX5zd_DRXSuO9/view?usp=drivesdk
+
+Feedback Video Link to SmartInternz: https://drive.google.com/file/d/1gNQt-Tqjfwx7qb5e9ri-srSNwGpNFSwb/view?usp=drivesdk
